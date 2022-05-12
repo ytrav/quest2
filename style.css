@@ -16,7 +16,7 @@
     border-radius: 15px;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
-    gap: 10px 10px;
+    gap: 12px 12px;
     grid-auto-flow: row;
     justify-content: center;
     align-content: center;
